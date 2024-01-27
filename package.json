@@ -1,0 +1,22 @@
+{
+	"name": "com.tigertigerplush.network-nav-mesh-agent",
+	"version": "0.0.1",
+	"displayName": "NetworkNavMeshAgent",
+	"unity": "2022.3",
+	"unityRelease": "12f1",
+	"documentationUrl": "https://github.com/tigerplush/NetworkNavMeshAgent",
+	"changelogUrl": "https://github.com/tigerplush/NetworkNavMeshAgent/CHANGELOG.md",
+	"licensesUrl": "https://example.com/licensing.html/LICENSE.md",
+	"keywords": [
+		"Unity",
+		"Fusion 2",
+		"AI",
+		"NavMesh",
+		"NavMeshAgent",
+	],
+	"author": {
+		"name": "Christopher Putz",
+		"email": "christopher.putz@corgibase.de",
+		"url": "https://github.com/tigerplush"
+	}
+}
